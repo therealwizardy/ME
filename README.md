@@ -62,4 +62,4 @@ src="https://img.shields.io/github/followers/therealwizardy?logo=github&style=fo
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/wizardy"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/ezhassanind"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
